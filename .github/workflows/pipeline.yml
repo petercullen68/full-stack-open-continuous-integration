@@ -17,3 +17,7 @@ jobs:
         run: npm install
       - name: Check style
         run: npm run eslint
+      - name: run npm test
+        run: jest
+      - name: run npm build
+        run: webpack --mode production
