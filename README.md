@@ -13,14 +13,11 @@ Start by running `npm install` inside the project folder
 `npm run start-prod` to run your production build
 
 
-
-
-✔ Chapter 1 – Completed
-✔ Chapter 2 – Completed
-✔ Chapter 3 – Completed
-✔ Chapter 4 – Completed
+✔ Chapter 1 – Completed 
+✔ Chapter 2 – Completed 
+✔ Chapter 3 – Completed 
+✔ Chapter 4 – Completed 
 🚧 Chapter 5 – Work in Progress
-
 
 🚀 Live Application
 
